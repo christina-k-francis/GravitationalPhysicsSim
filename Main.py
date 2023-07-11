@@ -1,9 +1,5 @@
-# script that asks the user to input how many objects they'd like to see exert gravity on each other
-import math
-import numpy as np
-import random
-import matplotlib.pyplot as plt
-import copy
+# script for running the gravitational physics simulator
+
 
 # Original G is 6.6742*10**-11
 # So if our units are in the millions
